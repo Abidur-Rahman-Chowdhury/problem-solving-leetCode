@@ -9,3 +9,4 @@ var findDuplicate = function (nums) {
     }
   }
 };
+console.log( findDuplicate([1,2,3,4,2]))
